@@ -12,6 +12,7 @@
 *.map
 *.pid
 *.svg
+*.iml
 
 build-output
 build-ouput
